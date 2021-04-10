@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.137.65.125" id="de4c90a0-e210-4633-bc31-79726f2baac6" keyPath="$PROJECT_DIR$/../filezilla(1).pem" port="22" customName="quade-core" nameFormat="CUSTOM" username="ec2-user">
+        <option name="customName" value="quade-core" />
+      </sshConfig>
+      <sshConfig host="3.137.65.125" id="43f5833c-bff5-4906-bf89-7b6fd6ec034f" keyPath="$PROJECT_DIR$/../filezilla(1).pem" port="22" customName="quade-core" nameFormat="CUSTOM" username="ec2-user">
+        <option name="customName" value="quade-core" />
+      </sshConfig>
+      <sshConfig host="3.137.65.125" id="834f69be-731b-4eaf-b858-3bda9cfdc6e6" keyPath="$PROJECT_DIR$/../filezilla(1).pem" port="22" customName="quade-core" nameFormat="CUSTOM">
+        <option name="customName" value="quade-core" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
